@@ -1,3 +1,3 @@
 ## UAS OOP
-# E-commerce
-This project deals with developing a Virtual website ‘E-commerce Website’. It provides the user with a list of the various products available for purchase in the store. For the convenience of online shopping, a shopping cart is provided to the user. After the selection of the goods, it is sent for the order confirmation process. The system is implemented using Python's web framework Django.
+# Ecommerce
+Proyek ini berkaitan dengan pengembangan situs web Virtual 'Situs Web E-commerce'. Ini memberi pengguna daftar berbagai produk yang tersedia untuk dibeli di toko. Untuk kenyamanan berbelanja online, pengguna disediakan keranjang belanja. Setelah barang dipilih, barang dikirim untuk proses konfirmasi pesanan. Sistem ini diimplementasikan menggunakan kerangka web Python Django.
