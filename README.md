@@ -1,7 +1,7 @@
 ``` python
-Hendra Parsaulian
-312210689
-T.I 22A3
+Nama: Hendra Parsaulian
+Nim :312210689
+Kelas: T.I 22A3
 ```
 # UAS OOP
 ## Ecommerce
