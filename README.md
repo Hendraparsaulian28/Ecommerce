@@ -1,6 +1,6 @@
 ``` python
-Nama: Hendra Parsaulian
-Nim :312210689
+Nama : Hendra Parsaulian
+Nim  :312210689
 Kelas: T.I 22A3
 ```
 # UAS OOP
